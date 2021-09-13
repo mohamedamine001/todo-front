@@ -1,7 +1,7 @@
 import React, { Component,useState,useEffect }from "react";
 import {useHistory,Redirect} from "react-router-dom";
 import axios from "axios";
-
+import Header from "../components/Header/Header";
 // reactstrap components
 import {
 	Button,
@@ -59,6 +59,7 @@ export default function Login() {
     }*/
 	return (
 		<>
+		<Header />
 	<div className="container">
 	<div className="row justify-content-md-center">
 		<div className="col-md-8 ml-auto mr-auto text-center mt-5">

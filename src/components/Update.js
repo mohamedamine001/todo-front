@@ -1,6 +1,7 @@
 import React, { Component,useState,useEffect }from "react";
 import {Redirect,useHistory,useParams} from "react-router-dom";
 import axios from "axios";
+import Header from "../components/Header/Header";
 
 export default function Update(props) {
 	
@@ -76,6 +77,7 @@ export default function Update(props) {
 	 
 	return (
 		<>
+		<Header />
 {!id || isFailed ? (
 <Redirect to='/' />)
 :(

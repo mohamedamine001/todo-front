@@ -13,7 +13,7 @@ import Protected from "./components/Protected";
 function App() {
   return (
     <Router>
-		<Header />
+		
 		<Switch>
 			<Route path='/login'    component={Login} />
 			<Route path='/register' component={Register} />
