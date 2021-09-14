@@ -40,10 +40,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## ScreenShots : 
-![sc1](/screenshots/1.png)
-![sc2](/screenshots/2.png)
-![sc3](/screenshots/3.png)
-![sc4](/screenshots/4.png)
+![sc1](/screenshots/1.PNG)
+![sc2](/screenshots/2.PNG)
+![sc3](/screenshots/3.PNG)
+![sc4](/screenshots/4.PNG)
 
 ## API PART Repository Link
 
